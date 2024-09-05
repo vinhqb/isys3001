@@ -12,3 +12,4 @@ This text is in _italic_
 
  - [x] check 1
 - [ ] check 2
+![vinh picture](/VinhBui-1.png)
